@@ -1,0 +1,17 @@
+baseURL = 'https://sikonn.github.io/one/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+git add .
+git commit -m "Initial commit with Hugo and vortisil theme"
+git branch -M main
+git remote add origin https://github.com/sikonn/one.git
+git push -u origin main
+
+ git add .
+git commit -m "Initial commit with Hugo and vortisil theme"
+git branch -M main
+git remote add origin https://github.com/sikonn/one.git
+git push -u origin main
+
+
