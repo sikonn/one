@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sikonn.github.io/one/posts/</loc>
+    <lastmod>2025-05-02T07:12:22+00:00</lastmod>
+  </url><url>
+    <loc>https://sikonn.github.io/one/posts/your-new-post/</loc>
+    <lastmod>2025-05-02T07:12:22+00:00</lastmod>
+  </url><url>
+    <loc>https://sikonn.github.io/one/</loc>
+    <lastmod>2025-05-02T07:12:22+00:00</lastmod>
+  </url><url>
+    <loc>https://sikonn.github.io/one/posts/first-post/</loc>
+    <lastmod>2025-05-02T15:08:05+09:00</lastmod>
+  </url><url>
+    <loc>https://sikonn.github.io/one/search/</loc>
+  </url>
+</urlset>
